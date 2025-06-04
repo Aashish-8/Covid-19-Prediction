@@ -1,5 +1,7 @@
 # 🧠 COVID-19 ICU Prediction using Machine Learning
 
+Preview - https://covid-19-prediction-gdkbjbuepvp55nvray3zcu.streamlit.app/
+
 This project predicts whether a COVID-19 patient is likely to need **ICU care** based on their health data using a **Machine Learning model** and provides a user-friendly interface built with **Streamlit**.
 
 ---
